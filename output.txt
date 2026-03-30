@@ -1,1 +1,11 @@
 
+For Program 2 "py2.py":
+
+
+Enter text to write in the file:
+Hello! i am Vineet!
+Enter additional information to write in the file:
+Thank you for reviewing my assignment!
+You have added the following information:
+Hello! i am Vineet!
+Thank you for reviewing my assignment!
