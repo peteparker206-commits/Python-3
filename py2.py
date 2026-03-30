@@ -6,6 +6,8 @@ with open("sample.txt", "at") as f:
     add2= input("Enter additional information to write in the file: \n")
     f.write(add2)
 
+print(" You have added the following information:  ")
+
 with open("sample.txt", "rt") as fh:
     
     a = fh.read()
