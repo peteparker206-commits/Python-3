@@ -1,3 +1,9 @@
+For Program 1 "py1.py":
+
+
+line1 = HeyyHelloHello How are you doing?Hello How are you doing?
+
+
 
 For Program 2 "py2.py":
 
